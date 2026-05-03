@@ -46,7 +46,7 @@ project/
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Hamidreza-ahd/fashion-classifier-app/
-cd your-repo-name
+cd fashion-classifier-app
 ```
 
 ### 2. Install dependencies
